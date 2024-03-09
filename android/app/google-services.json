@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71700928416",
+    "project_id": "transviti-task",
+    "storage_bucket": "transviti-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71700928416:android:04cd81a8424a7b61ecf6c5",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCObTb4YM_kigiH0EeLbu_y-wt8tXo1baU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
